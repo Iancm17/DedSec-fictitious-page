@@ -1,6 +1,6 @@
 # DedSec fictitious page.
 
-Este es un proyecto que desarrollé como una actividad escolar hace algún tiempo. Me gustó el resultado y decidí subirlo a GitHub como parte de mi portafolio.
+Este es un proyecto que desarrollé como una actividad escolar hace algún tiempo. Me gustó el resultado y decidí subirlo a GitHub como parte de mi pagina.
 
 ## 📝 Descripción del proyecto
 
