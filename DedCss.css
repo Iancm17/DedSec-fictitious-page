@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    color: whitesmoke;
+    background:linear-gradient(rgba(105, 105, 105, 0)), url("https://i.pinimg.com/originals/45/92/64/45926407d771ede425af70370b8bd99f.gif");
+    text-align: center;
+}
+
+header {
+    font-size: 30px;
+    background:linear-gradient(rgba(58, 58, 58, 0.678)), url("https://static.wikia.nocookie.net/watchdogs_gamepedia/images/3/35/Dedsec_fullscreen_splash.jpg/revision/latest/scale-to-width-down/250?cb=20160609171149");
+    height: 220px;
+}
+
+nav button {
+    background-color: #747474;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 12px;
+}
+
+#nosotros {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    background:linear-gradient(rgba(58, 58, 58, 0.678)), url("https://i.ytimg.com/vi/RYuesoKNULg/maxresdefault.jpg");
+}
+
+.team-img {
+    max-width: 400px;
+    height: 250px;
+    border-radius: 45px;
+    margin:20px
+}
+
+#proyectos {
+    max-width: 1200px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+}
+
+#proyectos > div {
+    display: flex;
+    gap: 20px;
+}
+
+#proyectos > div > div {
+    background: rgb(9, 61, 9);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#proyectos img {
+    height: 200px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
